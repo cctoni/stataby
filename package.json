@@ -6,8 +6,15 @@
   "dependencies": {
     "gatsby": "^1.9.218",
     "gatsby-link": "^1.6.37",
+    "gatsby-plugin-glamor": "^1.6.13",
     "gatsby-plugin-react-helmet": "^2.0.5",
-    "react-helmet": "^5.2.0"
+    "gatsby-plugin-typography": "^1.7.16",
+    "gatsby-source-filesystem": "^1.5.25",
+    "gatsby-source-github": "^0.0.0-beta1.3",
+    "gatsby-transformer-remark": "^1.7.34",
+    "glamorous": "^4.11.6",
+    "react-helmet": "^5.2.0",
+    "typography-theme-kirkham": "^0.16.3"
   },
   "keywords": [
     "gatsby"
